@@ -142,18 +142,6 @@ a {
     width: 100px;
     height: 1px;
     background: #000; }
-.site-section-heading-2.text-center-comim:after {
-    content: "";
-    -webkit-transform: translateX(-50%);
-    -ms-transform: translateX(-50%);
-    transform: translateX(-50%);
-    content: "";
-    left: 50%;
-    bottom: 0;
-    position: absolute;
-    width: 350px;
-    height: 1px;
-    background: #000; }
 
 
 
