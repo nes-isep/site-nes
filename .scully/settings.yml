@@ -1,0 +1,11 @@
+identifier: k9x20fr893tde7gb
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: nes-website
+homeFolder: /Users/dsalvador/IdeaProjects/NES
+distFolder: dist/nes-website
+outDir: /Users/dsalvador/IdeaProjects/NES/dist/static
+handle404: ''
+allowErrorCollect: true
