@@ -1,0 +1,15 @@
+mat-card::ng-deep.mat-card-header-text {
+  width: 100%;
+}
+
+.resize {
+  width: 20%;
+}
+
+@media (max-width: 1000px){
+  .mat-card {
+    width: 90%;
+  }
+}
+
+

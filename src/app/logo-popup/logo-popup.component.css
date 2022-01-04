@@ -1,0 +1,23 @@
+.glow-class {
+  background: rgb(237,237,237);
+  background: radial-gradient(circle, rgba(237,237,237,1) 0%, rgba(148,187,233,0) 72%);
+}
+
+.circle-round {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+
+}
+
+.LogoShow {
+  display: block;
+}
+
+@media (max-width: 1000px){
+  .LogoShow {
+    display: none;
+  }
+}

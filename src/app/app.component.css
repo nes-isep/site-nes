@@ -1,0 +1,25 @@
+#logo {
+  display: block;
+}
+
+#header {
+  display: block;
+}
+
+#headerMobile {
+  display: none;
+}
+
+@media (max-width: 1000px){
+  #logo {
+    display: none;
+  }
+
+  #header {
+    display: none;
+  }
+
+  #headerMobile {
+    display: block;
+  }
+}

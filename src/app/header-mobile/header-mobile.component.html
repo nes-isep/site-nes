@@ -1,0 +1,21 @@
+<mat-drawer-container class="example-container" autosize>
+
+  <mat-toolbar style="height: 70px; position: fixed; z-index: 999; background-color: #CD6049;">
+    <button mat-icon-button class="example-icon" (click)="openCloseHyperLinks()" data-target="#navbarToggleExternalContent" data-toggle="collapse"
+            aria-label="Example icon-button with menu icon">
+      <mat-icon>menu</mat-icon>
+    </button>
+    <span class="ml-4"><a href="/" style="text-decoration: none; color: white">NES</a></span>
+    <span class="example-spacer"></span>
+  </mat-toolbar>
+
+  <mat-toolbar id="hyperlinks" style="margin-top: 70px; display: none; background-color: #B9553F;">
+    <div style="padding-left: 60px; padding-top: 15px">
+      <h5><a href="/about" style="text-decoration: none; color: white">Sobre</a></h5>
+    </div>
+
+  </mat-toolbar>
+
+
+</mat-drawer-container>
+
