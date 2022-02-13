@@ -2,4 +2,4 @@
   publish = "dist/static"
 
 [context.production]
-  command = "npm run scully -- --scanRoutes; npm run build; npm run scully"
+  command = "npm run build; npm run scully -- --scanRoutes; npm run build; npm run scully"
