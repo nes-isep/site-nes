@@ -1,12 +1,15 @@
 <mat-card class="mat-elevation-z5 m-3 resize" *ngFor="let description of descriptionsArray">
-  <mat-card-header class="row">
-    <mat-card-title>{{description.title}}</mat-card-title>
-    <mat-card-subtitle>{{description.date}}</mat-card-subtitle>
-  </mat-card-header>
-  <mat-card-content>
+  <div style="background-color: #B9553F; border-radius: 10px;    border-style: outset;
+  border-width: 3px;
+  border-color: #e08874;">
+    <mat-card-header class="row">
+      <mat-card-title style="margin-top: 10px; color: white">{{description.title}}</mat-card-title>
+    </mat-card-header>
+  </div>
+  <mat-card-content style="margin-right: 20px; margin-left: 20px; margin-top: 20px">
     {{description.description}}
   </mat-card-content>
   <mat-card-actions>
-    <button mat-button class="float-right" style="position: absolute; right: 0; bottom: 0">Ver mais</button>
+    <button mat-button class="float-right" style="position: absolute; right: 10px; bottom: 10px; border-radius: 20px">Ver mais</button>
   </mat-card-actions>
 </mat-card>

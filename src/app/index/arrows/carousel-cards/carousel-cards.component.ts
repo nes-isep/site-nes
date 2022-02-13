@@ -49,6 +49,7 @@ export class CarouselCardsComponent implements OnInit{
             '        </div>\n' +
             '        <div class="team-content">\n' +
             '          <h2 class="name">' + this.people[i].nome + '</h2>\n' +
+            '          <hr>' +
             '          <h4 class="title">' + this.people[i].cargo + '</h4>\n' +
             '        </div>\n' +
             '        <ul class="social">\n' +

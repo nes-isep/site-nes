@@ -16,17 +16,15 @@ export class ArrowsComponent implements OnInit {
 
   links$: Observable<ScullyRoute[]> = this.scully.available$;
 
-  route: any;
-
   constructor(private scully: ScullyRoutesService) {}
 
   ngOnInit(): void {
     // debug current pages
     this.links$.subscribe((links) => {
       for(let i = 0; i < links.length; i++){
-        if(links[i].route == "/blog/card-data"){
-          this.route = links[i];
-          this.departamentos = this.route.departments;
+        if(links[i].route == "/blog/department-data"){
+          // @ts-ignore
+          this.departamentos = links[i].departments;
         }
       }
     });

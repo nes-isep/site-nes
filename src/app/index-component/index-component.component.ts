@@ -8,15 +8,9 @@ import {ScullyRoute, ScullyRoutesService} from "@scullyio/ng-lib";
   styleUrls: ['./index-component.component.css']
 })
 export class IndexComponentComponent implements OnInit {
-  links$: Observable<ScullyRoute[]> = this.scully.available$;
-
-  constructor(private scully: ScullyRoutesService) {}
+  constructor() {}
 
   ngOnInit() {
-    // debug current pages
-    this.links$.subscribe((links) => {
-      console.log(links);
-    });
   }
 
 }

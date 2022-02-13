@@ -4,6 +4,15 @@ mat-card::ng-deep.mat-card-header-text {
 
 .resize {
   width: 20%;
+  border-radius: 20px;
+  transform: scale(1);
+  transition: all .2s ease-in-out;
+}
+
+.resize:hover {
+  border-radius: 20px;
+  transform: scale(1.1);
+  z-index: 2;
 }
 
 @media (max-width: 1000px){
