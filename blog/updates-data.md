@@ -4,32 +4,32 @@ description: This is a post description
 publish: false
 updates: [
 {
-title: 'Calendário de exames da época especial',
-description: 'Não conseguiste passar àquela unidade curricular difícil? Não entres em pânico, ainda tens uma última oportunidade antes de o novo ano letivo começar: a época especial de exames!',
+title: 'WORKSHOP POWER BI',
+description: 'Em colaboração com a Spark Agency vais ter oportunidade de ficar a conhecer melhor Power BI.',
 date: 'Today: July 10, 2020',
 new: false,
-see_more_url: 'http://www.google.com'
+see_more_url: 'https://www.facebook.com/nes.isep/posts/2824077141215498'
 },
 {
-title: 'Camisolas de curso',
-description: 'Com o regresso das aulas presenciais vamos finalmente poder distribuir-vos as tão ansiadas camisolas de curso',
+title: 'Calendário de avaliações',
+description: 'Nos dias 20 a 23 de dezembro não há aulas! Ao invés terás algumas avaliações.',
 date: 'Today: July 10, 2020',
 new: true,
-see_more_url: 'http://www.facebook.com'
+see_more_url: 'https://www.facebook.com/nes.isep/posts/2822415558048323'
 },
 {
-title: 'Workshop LaTeX',
-description: 'LaTeX é um sistema ou programa para a edição de documentos de alta qualidade tipográfica',
+title: 'Workshop Next Step',
+description: 'Em 90 minutos ficas a saber tudo sobre CV, LinkedIn, Pitch, Recrutamentos...',
 date: 'Today: July 10, 2020',
 new: true,
-see_more_url: 'http://www.apple.com'
+see_more_url: 'https://www.facebook.com/nes.isep/posts/2812818409008038'
 },
 {
-title: 'Novo website da NES',
-description: '-------todo----------',
+title: 'Mandato 2021/22',
+description: 'Hoje damos-te a conhecer a nossa equipa para o Mandato 2021/22.',
 date: 'Today: July 10, 2020',
 new: true,
-see_more_url: 'http://www.twitter.com'
+see_more_url: 'https://www.facebook.com/nes.isep/posts/2811936805762865'
 }
 ]
 ---
