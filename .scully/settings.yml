@@ -4,8 +4,8 @@ staticPort: 1668
 reloadPort: 2667
 hostName: localhost
 projectName: nes-website
-homeFolder: /Users/dsalvador/IdeaProjects/NES
+homeFolder: /Users/dsalvador/IdeaProjects/nes_v2/nes-isep.github.io
 distFolder: dist/nes-website
-outDir: /Users/dsalvador/IdeaProjects/NES/dist/static
+outDir: /Users/dsalvador/IdeaProjects/nes_v2/nes-isep.github.io/dist/static
 handle404: ''
 allowErrorCollect: true

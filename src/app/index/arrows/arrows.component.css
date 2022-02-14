@@ -57,3 +57,12 @@ div svg:hover .arrow-fixed {
     line-height: normal;
   }
 }
+
+@media (max-width: 800px) {
+  #arrow_right {
+    margin: 0
+  }
+  #arrow_left {
+    margin: 0
+  }
+}

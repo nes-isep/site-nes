@@ -10,6 +10,10 @@
     {{description.description}}
   </mat-card-content>
   <mat-card-actions>
-    <button mat-button class="float-right" style="position: absolute; right: 10px; bottom: 10px; border-radius: 20px">Ver mais</button>
+    <button mat-button class="float-right" style="position: absolute; right: 10px; bottom: 10px; border-radius: 20px">
+      <a style="text-decoration: none; color: inherit" href="{{description.see_more_url}}">
+        Ver mais
+      </a>
+    </button>
   </mat-card-actions>
 </mat-card>

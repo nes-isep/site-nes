@@ -26,6 +26,7 @@ export class SubBannerMaterialComponent implements OnInit {
           this.descriptionsArray = links[i].updates;
         }
       }
+      console.log(this.descriptionsArray)
     });
 
   }

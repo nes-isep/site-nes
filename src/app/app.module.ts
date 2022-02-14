@@ -20,29 +20,29 @@ import {SubBannerMaterialComponent} from "./index/sub-banner-material/sub-banner
 import {NewHeaderComponent} from "./new-header/new-header.component";
 import {IndexComponentComponent} from "./index-component/index-component.component";
 import {AboutComponent} from "./about/about.component";
-import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import {MatCardModule} from "@angular/material/card";
 import {MatSidenavModule} from "@angular/material/sidenav";
-import { NotFoundComponent } from './not-found/not-found.component';
+import {NotFoundComponent} from './not-found/not-found.component';
 import {MatDividerModule} from "@angular/material/divider";
 import {RouterModule} from "@angular/router";
 
 @NgModule({
-  declarations: [
-    AppComponent,
-    CarouselComponent,
-    HeaderComponent,
-    LogoPopupComponent,
-    CarouselCardsComponent,
-    FooterComponent,
-    SubBannerMaterialComponent,
-    ArrowsComponent,
-    NewHeaderComponent,
-    IndexComponentComponent,
-    AboutComponent,
-    HeaderMobileComponent,
-    NotFoundComponent,
-  ],
+    declarations: [
+        AppComponent,
+        CarouselComponent,
+        HeaderComponent,
+        LogoPopupComponent,
+        CarouselCardsComponent,
+        FooterComponent,
+        SubBannerMaterialComponent,
+        ArrowsComponent,
+        NewHeaderComponent,
+        IndexComponentComponent,
+        AboutComponent,
+        HeaderMobileComponent,
+        NotFoundComponent,
+    ],
     imports: [
         BrowserModule,
         AppRoutingModule,
@@ -58,7 +58,8 @@ import {RouterModule} from "@angular/router";
         MatDividerModule,
         RouterModule
     ],
-  providers: [],
-  bootstrap: [AppComponent]
+    exports: [MatSidenavModule],
+    providers: [],
+    bootstrap: [AppComponent]
 })
 export class AppModule { }

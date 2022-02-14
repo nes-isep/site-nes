@@ -2,6 +2,10 @@
   height: 500px;
 }
 
+.carousel {
+  z-index: 0;
+}
+
 .carousel-item img {
   position: absolute;
   top: 0;
@@ -14,6 +18,9 @@
 @media (max-width: 1000px){
   .image {
     height: 300px;
+  }
+  #carouselExampleCaptions {
+    margin-top: 22px
   }
 
 }

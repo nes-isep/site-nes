@@ -22,10 +22,18 @@ export class HeaderMobileComponent implements OnInit {
       // @ts-ignore
       document.getElementById('hyperlinks').style.display = 'none';
       // @ts-ignore
+      document.getElementById('spacerTop').style.marginTop = '45px';
+      // @ts-ignore
+      document.getElementById('carouselExampleCaptions').style.marginTop = '22px';
+      // @ts-ignore
       document.getElementById("carousel").style.paddingTop = '60px';
     } else {
       // @ts-ignore
       document.getElementById('hyperlinks').style.display = 'block';
+      // @ts-ignore
+      document.getElementById('spacerTop').style.marginTop = '0px';
+      // @ts-ignore
+      document.getElementById('carouselExampleCaptions').style.marginTop = '0px';
       // @ts-ignore
       document.getElementById("carousel").style.paddingTop = '0px';
     }
