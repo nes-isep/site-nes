@@ -1,7 +1,7 @@
 ---
 title: Test post
 description: This is a post description
-publish: true
+publish: false
 departments: [
 {id: 0 , departamento: 'Presidência'},
 {id: 1 , departamento: 'Departamento de Eventos'},

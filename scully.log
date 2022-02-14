@@ -27,7 +27,7 @@
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 ----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
 
 
@@ -41,7 +41,7 @@
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 ----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
 
 
@@ -55,7 +55,7 @@
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 ----------------------------------   To discover new routes in the angular app use "npm run scully -- --scanRoutes"Using stored unhandled routes!.----------------------------------
 
 
@@ -69,7 +69,7 @@
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 ----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
 
 
@@ -83,7 +83,7 @@
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 ----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
 
 
@@ -97,7 +97,7 @@
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 Using stored unhandled routes!.----------------------------------   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
 
 
@@ -111,7 +111,7 @@ Using stored unhandled routes!.----------------------------------   To discover 
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 ----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
 
 
@@ -125,7 +125,7 @@ Using stored unhandled routes!.----------------------------------   To discover 
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 ----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
 
 
@@ -139,7 +139,7 @@ Using stored unhandled routes!.----------------------------------   To discover 
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 ----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
 
 
@@ -153,7 +153,7 @@ Using stored unhandled routes!.----------------------------------   To discover 
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 ----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
 
 
@@ -167,7 +167,7 @@ Using stored unhandled routes!.----------------------------------   To discover 
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 ----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
 
 
@@ -181,11 +181,11 @@ Using stored unhandled routes!.----------------------------------   To discover 
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 ----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"---------------------------------- The router plugin "contentFolder has thrown the below error,
               while trying to render route "unknown"
               Scully will exitYAMLException: missed comma between flow collection entries at line 8, column 1:
-    {idCargo: 0, id: 2, nome: 'Inês  ... 
+    {idCargo: 0, id: 2, nome: 'Inês  ...
     ^
 
 
@@ -218,7 +218,7 @@ Content file "./blog/people-data.md" has no content!
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 
 ----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------Content file "./blog/card-data.md" has no content!Content file "./blog/people-data.md" has no content!
 
@@ -235,7 +235,7 @@ Content file "./blog/card-data.md" has no content!
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 
 Content file "./blog/people-data.md" has no content!
       ----------------
@@ -246,7 +246,7 @@ Content file "./blog/people-data.md" has no content!
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 
 ----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------Content file "./blog/card-data.md" has no content!Content file "./blog/people-data.md" has no content!
 
@@ -263,7 +263,7 @@ Content file "./blog/people-data.md" has no content!
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 
 Content file "./blog/card-data.md" has no content!
       ----------------
@@ -274,7 +274,7 @@ Content file "./blog/card-data.md" has no content!
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 
 ----------------------------------Using stored unhandled routes!.----------------------------------   To discover new routes in the angular app use "npm run scully -- --scanRoutes"Content file "./blog/card-data.md" has no content!Content file "./blog/people-data.md" has no content!
 
@@ -291,7 +291,7 @@ Content file "./blog/card-data.md" has no content!Content file "./blog/people-da
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
       ----------------
       Error, missing "<scully-content>" in route "/blog/card-data"
       without <scully-content> we can not render this route.
@@ -300,7 +300,7 @@ Content file "./blog/card-data.md" has no content!Content file "./blog/people-da
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 
 
 
@@ -319,7 +319,7 @@ Content file "./blog/people-data.md" has no content!
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 
 Content file "./blog/card-data.md" has no content!
       ----------------
@@ -330,7 +330,7 @@ Content file "./blog/card-data.md" has no content!
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 
 ----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------Content file "./blog/department-data.md" has no content! The router plugin "contentFolder has thrown the below error,
               while trying to render route "unknown"
@@ -438,7 +438,7 @@ handleUnknownRoute: "/node_modules/angular-slick/dist/slick.js", 404:""
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
 
 
 
@@ -518,7 +518,7 @@ Content file "./blog/department-data.md" has no content!Content file "./blog/peo
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
       ----------------
       Error, missing "<scully-content>" in route "/blog/carousel-data"
       without <scully-content> we can not render this route.
@@ -527,7 +527,7 @@ Content file "./blog/department-data.md" has no content!Content file "./blog/peo
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
-      
+
       ----------------
       Error, missing "<scully-content>" in route "/blog/updates-data"
       without <scully-content> we can not render this route.
@@ -545,11 +545,380 @@ Content file "./blog/department-data.md" has no content!Content file "./blog/peo
       when you serve your app with ng serve and then in the browsers console run:
       document.querySelector('scully-content')
       ----------------
+
+
+
+
+
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------Content file "./blog/carousel-data.md" has no content!Content file "./blog/department-data.md" has no content!Content file "./blog/updates-data.md" has no content!Content file "./blog/people-data.md" has no content!
+
+
+
+
+
+
+
+Content file "./blog/people-data.md" has no content!
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/people-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/people-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+
+
+Content file "./blog/carousel-data.md" has no content!
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/carousel-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/carousel-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+
+
+Content file "./blog/department-data.md" has no content!
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/department-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/department-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      Content file "./blog/updates-data.md" has no content!
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/updates-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/updates-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+
+
+
+
+----------------------------------Using stored unhandled routes!.----------------------------------   To discover new routes in the angular app use "npm run scully -- --scanRoutes"Content file "./blog/carousel-data.md" has no content!Content file "./blog/department-data.md" has no content!Content file "./blog/people-data.md" has no content!Content file "./blog/updates-data.md" has no content!
+
+
+
+
+
+
+
+Content file "./blog/people-data.md" has no content!Content file "./blog/updates-data.md" has no content!
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/people-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/people-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/updates-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/updates-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+
+
+
+
+Content file "./blog/department-data.md" has no content!
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/department-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/department-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+
+
+Content file "./blog/carousel-data.md" has no content!
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/carousel-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/carousel-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+
+
+----------------------------------Using stored unhandled routes!.----------------------------------   To discover new routes in the angular app use "npm run scully -- --scanRoutes"Content file "./blog/carousel-data.md" has no content!Content file "./blog/department-data.md" has no content!Content file "./blog/people-data.md" has no content!Content file "./blog/updates-data.md" has no content!
+
+
+
+
+
+
+
+Content file "./blog/department-data.md" has no content!
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/department-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/department-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      Content file "./blog/updates-data.md" has no content!
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/updates-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/updates-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      Content file "./blog/carousel-data.md" has no content!
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/carousel-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/carousel-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      Content file "./blog/people-data.md" has no content!
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/people-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/people-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+
+
+
+
+
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------Content file "./blog/carousel-data.md" has no content!Content file "./blog/updates-data.md" has no content!Content file "./blog/people-data.md" has no content!Content file "./blog/department-data.md" has no content!
+
+
+
+
+
+
+
+Content file "./blog/updates-data.md" has no content!Content file "./blog/department-data.md" has no content!Content file "./blog/carousel-data.md" has no content!
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/department-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/department-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/carousel-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/carousel-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/updates-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/updates-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/people-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/people-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      Content file "./blog/people-data.md" has no content!
+
+
+
+
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+--------------------------------------------------------------------   To discover new routes in the angular app use "npm run scully -- --scanRoutes"Using stored unhandled routes!.
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------   To discover new routes in the angular app use "npm run scully -- --scanRoutes"Using stored unhandled routes!.----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+handleUnknownRoute: "/apple-touch-icon-precomposed.png", 404:""
+handleUnknownRoute: "/apple-touch-icon.png", 404:""
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+ Deprication Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin in the scully.json file. For your convenience,
+         we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choiche.
+         for Puppteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.nes-website.config.ts file.
+
+          When you get this waring while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+No configuration for route "/blog/:slug" found. Skipping
+No configuration for route "/blog/:slug" found. Skipping
+No configuration for route "/blog/:slug" found. Skipping
+No configuration for route "/blog/:slug" found. Skipping
+No configuration for route "/blog/:slug" found. Skipping
+Content file "./blog/carousel-data.md" has no content!Content file "./blog/people-data.md" has no content!Content file "./blog/department-data.md" has no content!Content file "./blog/updates-data.md" has no content!
+
+
+
+Content file "./blog/department-data.md" has no content!
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/department-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/department-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      
+
+Content file "./blog/people-data.md" has no content!
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/people-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/people-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/___UNPUBLISHED___kzm1idzf_sANdWvbdVYbLJ4BlqBpVtZaytBnwE8cb"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/___UNPUBLISHED___kzm1idzf_sANdWvbdVYbLJ4BlqBpVtZaytBnwE8cb"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
       
 
 
-
-
+Content file "./blog/carousel-data.md" has no content!
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/carousel-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/carousel-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      Content file "./blog/updates-data.md" has no content!
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/updates-data"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/updates-data"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      
 
 
 

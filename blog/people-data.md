@@ -1,7 +1,7 @@
 ---
 title: Test post
 description: This is a post description
-publish: true
+publish: false
 people: [
 {idCargo: 0, id: 0, nome: 'Márcia Raposo', cargo: 'Presidente do Núcleo', foto: '../../assets/Membros Nucleo/Presidencia/Márcia Raposo.jpg', linkedIn: '' },
 {idCargo: 0, id: 1, nome: 'Ana Beatriz Reis', cargo: 'Vice-Presidente do Núcleo', foto: '../../assets/Membros Nucleo/Presidencia/Beatriz Reis.jpg', linkedIn: '' },

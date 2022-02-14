@@ -22,6 +22,7 @@ export class CarouselCardsComponent implements OnInit{
 
   ngOnInit(): void{
     this.links$.subscribe((links) => {
+      console.log(links)
       for(let i = 0; i < links.length; i++){
         if(links[i].route == "/blog/people-data"){
           this.route = links[i];

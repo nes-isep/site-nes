@@ -25,6 +25,7 @@ import {MatCardModule} from "@angular/material/card";
 import {MatSidenavModule} from "@angular/material/sidenav";
 import { NotFoundComponent } from './not-found/not-found.component';
 import {MatDividerModule} from "@angular/material/divider";
+import {RouterModule} from "@angular/router";
 
 @NgModule({
   declarations: [
@@ -42,20 +43,21 @@ import {MatDividerModule} from "@angular/material/divider";
     HeaderMobileComponent,
     NotFoundComponent,
   ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule,
-    ScullyLibModule,
-    BrowserAnimationsModule,
-    MatToolbarModule,
-    MatIconModule,
-    MatButtonModule,
-    FontAwesomeModule,
-    NgbModule,
-    MatCardModule,
-    MatSidenavModule,
-    MatDividerModule
-  ],
+    imports: [
+        BrowserModule,
+        AppRoutingModule,
+        ScullyLibModule,
+        BrowserAnimationsModule,
+        MatToolbarModule,
+        MatIconModule,
+        MatButtonModule,
+        FontAwesomeModule,
+        NgbModule,
+        MatCardModule,
+        MatSidenavModule,
+        MatDividerModule,
+        RouterModule
+    ],
   providers: [],
   bootstrap: [AppComponent]
 })
