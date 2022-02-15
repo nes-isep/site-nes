@@ -5,7 +5,7 @@ publish: false
 people: [
 {idCargo: 0, id: 0, nome: 'Teresa Pinto', cargo: 'Presidente do Núcleo', foto: '../../assets/Membros Nucleo/Teresa Pinto.jpeg', linkedIn: 'https://www.linkedin.com/in/teresa-santos-pinto/' },
 {idCargo: 0, id: 1, nome: 'Vasco Azevedo', cargo: 'Vice-Presidente do Núcleo', foto: '../../assets/Membros Nucleo/Vasco Azevedo.jpeg', linkedIn: 'https://www.linkedin.com/in/vasco-azevedo/' },
-{idCargo: 1, id: 0, nome: 'Catarina Lourenço', cargo: 'Responsável pelo Departamento de Eventos', foto: '../../assets/Membros Nucleo/Catarina Lourenço.jpg', linkedIn: 'https://www.linkedin.com/in/catarinalourenco01/' },
+{idCargo: 1, id: 0, nome: 'Catarina Lourenço', cargo: 'Coordenadora', foto: '../../assets/Membros Nucleo/Catarina Lourenço.jpg', linkedIn: 'https://www.linkedin.com/in/catarinalourenco01/' },
 {idCargo: 1, id: 1, nome: 'Joana Araújo', cargo: '  ', foto: '../../assets/Membros Nucleo/Joana Araújo.jpeg', linkedIn: 'https://www.linkedin.com/in/joana-gomes-araujo/' },
 {idCargo: 1, id: 2, nome: 'Bruno Borges', cargo: '    ', foto: '../../assets/Membros Nucleo/Bruno Borges.jpeg', linkedIn: 'https://www.linkedin.com/in/bruno-borges-/' },
 {idCargo: 1, id: 3, nome: 'Diogo Rafael', cargo: '', foto: '../../assets/Membros Nucleo/Diogo Rafael.jpeg', linkedIn: '' },
@@ -20,7 +20,7 @@ people: [
 {idCargo: 1, id: 12, nome: 'Gabriel Melo Pinto', cargo: '', foto: '../../assets/Membros Nucleo/Gabriel Melo Pinto.jpeg', linkedIn: '' },
 {idCargo: 1, id: 13, nome: 'Rafael Pereira', cargo: '', foto: '../../assets/Membros Nucleo/Rafael.jpeg', linkedIn: '' },
 {idCargo: 1, id: 14, nome: 'Isabel Sousa', cargo: '', foto: '../../assets/Membros Nucleo/Isabel SOusa.jpeg', linkedIn: '' },
-{idCargo: 2, id: 0, nome: 'Margarida Melo', cargo: 'Responsável pelo Departamento de Comunicação e Marketing', foto: '../../assets/Membros Nucleo/Margarida Melo 1.jpeg', linkedIn: 'https://www.linkedin.com/in/margmelo/' },
+{idCargo: 2, id: 0, nome: 'Margarida Melo', cargo: 'Coordenadora', foto: '../../assets/Membros Nucleo/Margarida Melo 1.jpeg', linkedIn: 'https://www.linkedin.com/in/margmelo/' },
 {idCargo: 2, id: 1, nome: 'Luís Carvalho', cargo: '', foto: '../../assets/Membros Nucleo/Luís Carvalho.jpeg', linkedIn: 'https://www.linkedin.com/in/luis-carvalho-/' },
 {idCargo: 2, id: 2, nome: 'Inês Morgado', cargo: '', foto: '../../assets/Membros Nucleo/Inês Morgado.jpeg', linkedIn: 'https://www.linkedin.com/in/ines-vf-morgado/' },
 {idCargo: 2, id: 3, nome: 'Hugo Pinho', cargo: '', foto: '../../assets/Membros Nucleo/Hugo Pinho.jpeg', linkedIn: 'https://www.linkedin.com/in/hugo-afonso-pinho/' },
