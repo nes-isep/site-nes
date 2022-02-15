@@ -1,19 +1,23 @@
 ---
+<--! Pode se adicionar titulos ou subtitulos as imagens -->
+<--! Para mudar a imagem basta mudar o que diz a seguir a: /assests/... adicionando o path da nova imagem -->
+<--! As imagens tem de ter a proporcao 460x1470px -->
+<--! Uma das imagens do carrossel tem de estar sempre com active: true e as outras todas false para ser a priemira a aperecer ao abrir-->
 title: Test post
 description: This is a post description
 publish: false
 carousel: [
 {
-  imagePath: "../../../assets/186496939_954028915363232_9092926700184401413_n.png",
+  imagePath: "../../../assets/ftg_equipa.jpg",
   active: true,
-  title: "Núcleo de Engenharia de Sistemas",
+  title: "A Equipa", 
   subtitle: ""
 },
 {
-  imagePath: "../../../assets/186515316_883701785542839_5669445439120829370_n.png",
+  imagePath: "../../../assets/VII_jornadas.jpg",
   active: false,
-  title: "Bem-Vindo ao Novo Website da NES",
-  subtitle: "Explora a nova plataforma do núcleo de engenharia de sistemas!"
+  title: "",
+  subtitle: ""
 }
 ]
 ---
