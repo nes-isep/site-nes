@@ -4,7 +4,7 @@ description: This is a post description
 publish: false
 carousel: [
 {
-  imagePath: "../../../assets/ftg_equipa.jpg",
+  imagePath: "../../../assets/ftg_equipa_2.jpg",
   active: true,
   title: "A Equipa", 
   subtitle: ""
