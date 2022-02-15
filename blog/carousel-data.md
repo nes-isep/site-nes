@@ -6,7 +6,7 @@ carousel: [
 {
   imagePath: "../../../assets/ftg_equipa_2.png",
   active: true,
-  title: "A Equipa", 
+  title: "", 
   subtitle: ""
 },
 {
