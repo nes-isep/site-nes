@@ -10,7 +10,7 @@ carousel: [
   subtitle: ""
 },
 {
-  imagePath: "../../../assets/VII_jornadas.jpg",
+  imagePath: "../../../assets/JornadasEngenhariaSistemas.png",
   active: false,
   title: "",
   subtitle: ""
