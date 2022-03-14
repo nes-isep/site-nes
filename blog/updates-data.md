@@ -12,7 +12,8 @@ see_more_url: 'https://www.instagram.com/p/CasMbRUousB/'
 },
 {
 title: 'VI JORNADAS',
-description: 'Através deste post, consegues descobrir mais sobre as Jornadas de Engenharia de Sistemas!',
+description: 'Dia 9 de março, embarcamos numa aventura sobre o ensino à distância e o ensino presencial!
+',
 date: 'Today: July 10, 2020',
 new: true,
 see_more_url: 'https://www.instagram.com/p/CaItgnaoXCQ/'
