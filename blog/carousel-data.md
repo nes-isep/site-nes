@@ -8,12 +8,6 @@ carousel: [
   active: true,
   title: "", 
   subtitle: ""
-},
-{
-  imagePath: "../../../assets/JornadasEngenhariaSistemas.png",
-  active: false,
-  title: "",
-  subtitle: ""
 }
 ]
 ---
