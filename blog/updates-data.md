@@ -8,7 +8,7 @@ title: 'Camisola de Curso',
 description: 'Descobre aqui qual é a camisola vencedora do concurso!',
 date: 'Today: July 10, 2020',
 new: false,
-see_more_url: 'https://www.instagram.com/p/CasMbRUousB/'
+see_more_url: 'https://www.instagram.com/p/Cbr5kRkothj/'
 },
 {
 title: 'VI JORNADAS',
